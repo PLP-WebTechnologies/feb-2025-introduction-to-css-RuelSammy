@@ -1,0 +1,44 @@
+/* Element Selector - Applies to all body content */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  
+  /* ID Selector - Styles the main title */
+  #main-title {
+    color: #2c3e50;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Class Selector - Intro paragraph */
+  .intro-text {
+    font-size: 1.1rem;
+    background-color: #fff;
+    padding: 15px;
+    border-left: 5px solid #3498db;
+    margin-bottom: 30px;
+  }
+  
+  /* Image Styling */
+  .featured-image {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto 30px;
+    border-radius: 8px;
+    border: 4px solid #ddd;
+  }
+  
+  /* Another Class - Content box with padding and border */
+  .content-box {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+  }
+  
